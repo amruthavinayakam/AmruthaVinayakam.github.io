@@ -61,5 +61,5 @@ Python Scikit for robust Exploratory Data Analysis (EDA) and Descriptive Modelin
 
 ### Forest Fires Prediction using Neural Networks
 
--Built and trained a deep learning model using Keras and scikit-learn to predict forest fires with 94% accuracy.
--Optimized model performance through GridSearchCV and KFold cross-validation, fine-tuning hyperparameters and leveraging the Adam optimizer.
+- Built and trained a deep learning model using Keras and scikit-learn to predict forest fires with 94% accuracy.
+- Optimized model performance through GridSearchCV and KFold cross-validation, fine-tuning hyperparameters and leveraging the Adam optimizer.
