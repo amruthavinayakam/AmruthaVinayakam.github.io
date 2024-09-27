@@ -55,7 +55,7 @@ enhance model performance by 15%, leading to actionable insights and improved pr
 
 ### Web Spark Analytics : Crafting Online Excellence
 
-- Achieved 91% accuracy in analysis by conducting in-depth analysis on Sephora’s dataset of 10,000 products using
+- Achieved 92% accuracy in analysis by conducting in-depth analysis on Sephora’s dataset of 10,000 products using
 Python Scikit for robust Exploratory Data Analysis (EDA) and Descriptive Modeling.
 - Identified critical patterns and success factors, providing actionable insights for strategic decisions in the beauty industry
 
